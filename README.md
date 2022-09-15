@@ -10,7 +10,7 @@ Windows 8 OOBE , Windows 10 OOBE
 
 一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包 by IAmREGE
 
-联系
-Github：[Windows毛玻璃解说233的网站]（https://github.com/jkMU5735/12479）
+
+Github联系：[Windows毛玻璃解说233的网站]（【https://github.com/jkMU5735/12479】）
 
 B站：[Windows毛玻璃解说233](https://space.bilibili.com/1601172780)
